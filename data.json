@@ -1,0 +1,57 @@
+[{
+    "name":"haokan",
+    "start": "com.baidu.haokan",
+    "resourceId": "com.baidu.haokan:id/cme",
+    "text": "首页",
+    "className_like": "android.widget.FrameLayout",
+    "resourceId_user": "com.baidu.haokan:id/qn",
+    "reesourceId_like": "com.baidu.haokan:id/c33"
+  },{
+    "name": "douyin",
+    "start": "com.ss.android.ugc.aweme",
+    "resourceId": "com.ss.android.ugc.aweme:id/p6s",
+    "text": "我",
+    "className_like": "",
+    "resourceId_user": "com.ss.android.ugc.aweme:id/title",
+    "reesourceId_like": "com.ss.android.ugc.aweme:id/dx6"
+  },
+  {
+    "name":"bili",
+    "start": "tv.danmaku.bili",
+    "resourceId": "tv.danmaku.bili:id/tab_text",
+    "text": "首页",
+    "className_like": "",
+    "resourceId_user": "tv.danmaku.bili:id/desc",
+    "reesourceId_like": "tv.danmaku.bili:id/recommend_icon"
+  },
+  {
+    "name":"weishi",
+    "start": "com.tencent.weishi",
+    "resourceId": "com.tencent.weishi:id/rto",
+    "text": "首页",
+    "className_like": "",
+    "resourceId_user": "com.tencent.weishi:id/aath",
+    "reesourceId_like": "com.tencent.weishi:id/vqb"
+  },
+  {
+    "name":"kuaishou",
+    "start": "com.smile.gifmaker",
+    "resourceId": "android:id/text1",
+    "text": "我",
+    "className_like": "",
+    "resourceId_user": "com.smile.gifmaker:id/user_name_text_view",
+    "reesourceId_like": "com.smile.gifmaker:id/like_icon"
+  },
+  {
+    "name":"xigua",
+    "start": "com.ss.android.article.video",
+    "resourceId": "com.ss.android.article.video:id/a_x",
+    "text": "首页",
+    "className_like": "",
+    "resourceId_user": "com.ss.android.article.video:id/ffy",
+    "reesourceId_like": "com.ss.android.article.video:id/la"
+  },
+  {
+    "name":"null"
+  }
+]
