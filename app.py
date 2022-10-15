@@ -176,6 +176,7 @@ def screen_on():
         time.sleep(2)
 def app():
     screen_on()
+    time.sleep(2)
     while not data_queue.empty():
         name_dict=data_queue.get()
         if name_dict["name"]!="null":
